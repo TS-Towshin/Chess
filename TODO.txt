@@ -1,0 +1,10 @@
+V1:
+    -> Checks
+    -> Castling
+    -> En Passant
+    -> Promotion
+    -> Stalemate
+    -> Checkmate
+
+V2:
+    -> Create the AI
